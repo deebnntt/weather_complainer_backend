@@ -1,24 +1,6 @@
-# README
+A whimsical JS app that provides a daily weather complaint, based on current and historical weather data by location
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
++ Backend of historical weather data taken from NOAA 
++ JavaScript frontend with class based JS syntax (link to frontend repo - https://github.com/deebnntt/weather_complainer_frontend)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A collaboration with @stopvoldemort - https://github.com/stopvoldemort
